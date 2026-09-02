@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* True black everywhere, including default scrollbar chrome. */
+html,
+body {
+  background-color: #000000;
+}
